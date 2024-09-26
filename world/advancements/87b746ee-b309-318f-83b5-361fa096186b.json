@@ -1,0 +1,66 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_gray_dye": "2021-06-24 09:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2021-06-24 09:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-06-24 09:50:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2021-06-24 09:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2021-06-24 09:51:53 +0000",
+      "minecraft:desert": "2021-06-24 09:51:31 +0000",
+      "minecraft:river": "2021-06-24 09:51:54 +0000",
+      "minecraft:plains": "2021-06-24 09:50:50 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2580
+}

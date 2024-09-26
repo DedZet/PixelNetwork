@@ -1,0 +1,61 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-08-26 10:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-26 10:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert_hills": "2021-08-26 10:13:21 +0000",
+      "minecraft:desert": "2021-08-26 10:13:52 +0000",
+      "minecraft:river": "2021-08-26 10:15:45 +0000",
+      "minecraft:savanna": "2021-08-26 10:13:51 +0000",
+      "minecraft:plains": "2021-08-26 10:13:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-08-26 10:14:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2580
+}
