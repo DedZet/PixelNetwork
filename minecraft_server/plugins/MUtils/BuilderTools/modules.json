@@ -1,0 +1,30 @@
+{
+    "language": "en_US",
+    "mainModules": {
+        "BLOCK_UPDATE": true,
+        "COMMAND_TOOL": true,
+        "BLOCK_CONVERTER": true,
+        "HIT_BOX": true,
+        "LEASH": true,
+        "MARKER": true,
+        "MULTI_TOOL": true,
+        "MESSAGES": true,
+        "PATHING": true,
+        "TAG_TOOL": true,
+        "RESOURCE_PACK": true,
+        "POSITIONS": true,
+        "DANGER_WARNING": true,
+        "TEXT_STYLING": true,
+        "CORE": true
+    },
+    "supporterModules": {
+        "ANIMATION": true,
+        "NAME_TAG": true,
+        "ORIGIN_TOOL": false,
+        "QUEST_BOOK": false
+    },
+    "experimentalModules": {
+        "ORIGIN_TOOL": false,
+        "QUEST_BOOK": false
+    }
+}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724558967264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724559003382
+  login: 1724552362370
+money: '0'
+logoutlocation:
+  world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
+  world-name: world
+  x: -435.8464334311766
+  y: 88.5
+  z: 172.49311827661705
+  yaw: 121.33639526367188
+  pitch: 16.65068817138672
+last-account-name: UberDedZet
+lastlocation:
+  world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
+  world-name: world
+  x: -401.30000001192093
+  y: 68.0
+  z: 199.14027839782747
+  yaw: -101.60286712646484
+  pitch: -5.680361747741699

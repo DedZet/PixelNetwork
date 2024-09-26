@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 26.170.68.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724558917851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724559484682
+  login: 1724553204576
+money: '0'
+lastlocation:
+  world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
+  world-name: world
+  x: 49.27442314549071
+  y: 117.0
+  z: -29.27833357105206
+  yaw: -86.19268798828125
+  pitch: 42.021663665771484
+logoutlocation:
+  world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
+  world-name: world
+  x: -381.0045498106315
+  y: 75.36911470720369
+  z: 76.26282821283255
+  yaw: 164.5537109375
+  pitch: 28.950162887573242
+last-account-name: VesyoliyHleb

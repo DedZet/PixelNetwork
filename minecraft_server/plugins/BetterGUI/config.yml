@@ -1,0 +1,5 @@
+trim-menu-file-extension: false
+include-menu-in-template: false
+relative-menu-name: false
+use-legacy-button: true
+use-modern-click-type: false

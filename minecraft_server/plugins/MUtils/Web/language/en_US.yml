@@ -1,0 +1,148 @@
+#----------------------- Translation ------------------------#
+#       Content of all messages in MUtils-WebServer.         #
+#------------------------------------------------------------#
+# Some messages support MiniMessage styling (marked with #m) #
+#          and extra variables (marked with #v).             #
+# Syntax: <input-i> ->                                       #
+#         i is a number from 0 to the message max            #
+#------------------------------------------------------------#
+
+creator: MUtils
+version: 1.0.0
+
+#-----------------------------------------#
+#           Common Translations           #
+# Translation keys that persist in every  #
+#        project for simple values        #
+#-----------------------------------------#
+common:
+  boolTrue: "Enabled"
+  boolFalse: "Disabled"
+  left: "Left"
+  right: "Right"
+  click: "Click"
+  sneak: "Sneak"
+  none: "None"
+  confirm: "Confirm"
+  cancel: "Cancel"
+  button: "Button"
+
+#-----------------------------------------#
+#            Command Responses            #
+#   Every command supports MiniMessages   #
+#-----------------------------------------#
+command:
+  copyLink: "<grey>Click <hover:show_text:'<grey>Click to copy link</grey>'><click:copy_to_clipboard:'<input-1>'><color:#6e94ff>here</color></click></hover> to copy your link"
+  passphraseWarning: "(passphrase included)"
+  switchLang: "MWeb language successfully switched to english! (en_US)"
+
+#-----------------------------------------#
+#                 Events                  #
+# Messages that occur on multiple places  #
+#-----------------------------------------#
+event:
+  clickToCopy: "Click to copy"
+  invalidName: "Failed to rename file to <input-1>! Please check for invalid characters" #v1
+  invalidDelete: "Failed to delete file <input-1>!" #v1
+  rename: "<grey><blue><b>Input Formatting</b></blue>\n ├> File names can not contain characters like <color:#6e94ff>\\/<>:*|\"</color>\n ├> Use <color:#6e94ff>_</color> for spaces\n ├> <color:#6e94ff>#exit</color> to leave</grey>" #m
+  fileType:
+    folder: "Directory"
+    config: "Configuration File"
+    dangerous: "System File"
+    mc: "Minecraft File"
+    archive: "Compressed Archive"
+    jar: "Jar File"
+    media: "Media File"
+    default: "Data File"
+  fileNotFound: "Failed to resolve file <input-1>!" #v1
+  idNotFound: "The id <input-1> does not exist!" #v1
+  action:
+    riseDownloads: "Rise Max Downloads"
+    riseTimeout: "Rise Timeout"
+    createGlobal: "Create Global Link"
+    createPrivate: "Create Personal Link"
+    createCustom: "Create Custom Link"
+    manageLinks: "Manage Links"
+    navigate: "Navigate"
+    rename: "Rename"
+    zip: "Zip"
+    unzip: "Unzip"
+    copyLink: "Copy Link"
+  texturepackPrompt: "<blue><b>Load the request ressource pack <input-1>" #m v1
+  setTimeout: "<grey><blue><b>Input Formatting</b></blue>\n ├> s = seconds, m = minutes, h = hours, d = days\n ├> Use like <color:#6e94ff>2d 5m</color>" #m
+  setMaxAmount: "<grey><blue><b>Input Formatting</b></blue>\n ├> Enter a positive number like <color:#6e94ff>25</color>" #m
+  setPassphrase: "<grey><blue><b>Input Formatting</b></blue>\n ├> Enter any phrase (no url characters)" #m
+  setPlayer: "<grey><blue><b>Input Formatting</b></blue>\n ├> Enter the <color:#6e94ff>name</color> of any player\n ├> Must joined the server before (ip check)" #m
+  setName: "Renamed file to <input-1>" #v1
+  noPermission: "Missing Permissions: <input-1>" #v1
+  noFolder: "Your selected file is not a directory!"
+  noArchive: "Your selected file is not an archive!"
+  startZip: "(Un-)Zipping the folder..."
+  finishZip: "Successfully (un-)zipped <input-1>!" #v1
+
+#-----------------------------------------#
+#                  Items                  #
+#   Messages only visible on GUI items    #
+# Syntax: n -> Item Name                  #
+#         l -> Item Lore                  #
+#-----------------------------------------#
+items:
+  general:
+    arrowRightEnd:
+      n: "<red>Scroll Right"
+      l: "You can not scroll any<br>further to the right"
+    arrowLeftEnd:
+      n: "<red>Scroll Left"
+      l: "You can not scroll any<br>further to the left"
+    arrowRight:
+      n: "<green>Scroll Right"
+      l: "<blue>Click ≫ +1 page<br><blue>Sneak-Click ≫ +5 pages"
+    arrowLeft:
+      n: "<green>Scroll Left"
+      l: "<blue>Click ≫ -1 page<br><blue>Sneak-Click ≫ -5 pages"
+    arrowUpGreen:
+      n: "<green>Scroll Up"
+      l: "<blue>Click ≫ -1 page<br><blue>Sneak-Click ≫ -3 pages"
+    arrowDownGreen:
+      n: "<green>Scroll Down"
+      l: "<blue>Click ≫ +1 page<br><blue>Sneak-Click ≫ +3 pages"
+    arrowUpRed:
+      n: "<red>Scroll Up"
+      l: "You can not scroll any<br>further up"
+    arrowDownRed:
+      n: "<red>Scroll Down"
+      l: "You can not scroll any<br>further down"
+    pageIndicator:
+      l: "Click to open a compact<br>GUI with quick access"
+  fileManage:
+    n: "Manage Files"
+  fileWhitelist:
+    n: "Manage Download Access"
+  fileUpload:
+    n: "Manage Upload Access"
+  loading:
+    n: "Loading..."
+  GLOBAL:
+    n: "Global Access"
+    l: "A link that can be used<br>by anyone without restriction"
+  PASSPHRASE_RESTRICTED:
+    n: "Passphrase Restriction"
+    l: "A link restricted by a<br>custom passphrase. Passphrases are visible<br>to all players with whitelist manage permission!"
+  USER_RESTRICTED:
+    n: "User Restriction"
+    l: "A link restricted to a single<br>user. The user must joined the<br>server once before! (IP restricted)"
+  timeout:
+    n: "Link Timeout"
+    l: "After this duration the link<br>becomes invalid (can be modified afterwards)"
+  maxDownloads:
+    n: "Maximal Downloads"
+    l: "After this amount of downloads<br>the link becomes invalid (can be modified afterwards)"
+  passphrase:
+    n: "Passphrase"
+    l: "The passphrase used to access<br>the link ('https://example.url/d/<id>?pw=<pw>')"
+  userRestriction:
+    n: "User"
+    l: "The user that can access<br>the link (ip linking)"
+  navigateBack:
+    n: "Navigate Back"
+

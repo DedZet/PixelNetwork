@@ -1,0 +1,77 @@
+# PerWorldPlugins Configuration
+
+# Disable or Enable the message of new updates.
+updateChecker: true
+# Disable or Enable the bStats metrics.
+metrics: true
+# Message send when execute blocked plugin command.
+disabledCommandMessage: '&4[Server]: &f{player} this command is disabled for {world}.'
+
+# If false, the plugins/groups added in the world will work.
+# If true, it will be reversed.
+blacklist: true
+
+plugins:
+  # For set group set - g:example (example is the name of group)
+  # Add and edit groups in the groups.yml
+  Example:
+  - PutWorldInThisListForDisableThisPluginOnWorld
+  - world
+  Example2:
+  - 'ignore:'
+  FastAsyncWorldEdit:
+  - Example
+  LagFixer:
+  - Example
+  NBTAPI:
+  - Example
+  FancyNpcs:
+  - Example
+  Essentials:
+  - Example
+  BetterGUI:
+  - Example
+  AxiomPaper:
+  - Example
+  LuckPerms:
+  - Example
+  UltimateShop:
+  - Example
+  FacilisCommon:
+  - Example
+  MultiWorld:
+  - Example
+  RadioactiveBomj:
+  - Example
+  ProtocolLib:
+  - Example
+  PlasmoVoice:
+  - Example
+  pv-addon-lavaplayer-lib:
+  - Example
+  SkinsRestorer:
+  - Example
+  GSit:
+  - Example
+  PlaceholderAPI:
+  - Example
+  KitchenLux:
+  - Example
+  ViaVersion:
+  - Example
+  QualityArmory:
+  - Example
+  ViaBackwards:
+  - Example
+  MUtils-Web:
+  - Example
+  BlueMap-BannerMarker:
+  - Example
+  BlueMap:
+  - Example
+  MobBanners:
+  - Example
+  MapTools:
+  - Example
+  MapEngine:
+  - Example

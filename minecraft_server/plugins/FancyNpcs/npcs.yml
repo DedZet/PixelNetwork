@@ -1,0 +1,32 @@
+npcs:
+  88e2f48b-be01-4728-9e7c-5e6216ecfc18:
+    name: doctor_gastrit
+    creator: 709ba7b4-55c2-4ff3-8ea7-bd8859aa347e
+    displayName: Доктор Гастрит
+    type: PLAYER
+    location:
+      world: world
+      x: -294.5
+      y: 71.0
+      z: 223.5
+      yaw: 118.99486
+      pitch: 1.4999632
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    playerCommands:
+    - heal
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.1
+    mirrorSkin: false
+    skin:
+      identifier: e6b5c088-0680-44df-9e1b-9bf11792291b
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcyMTI3NjY1MTYwMSwKICAicHJvZmlsZUlkIiA6ICJlNmI1YzA4ODA2ODA0NGRmOWUxYjliZjExNzkyMjkxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcnVtbSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMTEyOTM3NjhkNDE4YzA5NmU4MzAxYzBlNmJiMGUxZDEwMTMyYzFjOTA4Y2Q3YmU2NzNlYmM5MGY3MTIxODM2IgogICAgfQogIH0KfQ==
+      signature: xOEESzbh3PNHmrGZ+jdou5WczB0uiENM1KE+U+dDMwXD75LRcvwKxdU7yXRcm3h3UeLMYhqtjJlftFqM2ZG99j0jm4tQAjGDltl25WcG/xtvn9glgf5mQQUeRU67806u84z0SW5rmW2p8ecNWuzH8CyK4Nz7MRyWQTlGc6b9Z8GLAgn1DqYQcKnVlLcVlHSfTlZvMrmUl7nGfdVE5EB5tTvhpBW8lPkh6s1KlEyU7wdY9+Gw4k0xx+MbZ8uDw6//5BMB0zduwoKoqvgDUvVgKXY9fj/NoKXUwRtJATHt2/Fc1hvP+sCPU4HcgksdPRv5BeUzU8VW4E9vvf+eTXb1Z5E4Vk0geyETOndS4MTbUQ7XFieOoAplC6cJLnJaip6LZ+x5f8h+sM8LX4M4pYm5h0zykaoZLLxFWv4+2EqdscImH2KzmIXIqONfXQ6pJVnzTq2HkgD8+W9EYHXnduwaACaPGdX8t1r2qaZYombDFjYV5pDUnrUFvJ8nFH8wOxxDNSqezoskNBh3BZbChQz6qDaLdbUfB0r+10+S8ZYI6dzk/2UsVFjNCwFuGFPuHFCYYe9S2BU6fchaWWXaegm0KTTmADYX49VBe7+GLABTFWcVexlqXWvQ8tFqQjvdgoQ19y0nMHCMWboKBZd1/q3FxQ8B9jNd4zQeuhyxIJpy0q0=
+
