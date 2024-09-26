@@ -75,3 +75,5 @@ plugins:
   - Example
   MapEngine:
   - Example
+  playit-gg:
+  - Example

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 26.54.227.245
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723719176418
-  login: 1723718118581
+  logout: 1727351362941
+  login: 1727350068954
 money: '0'
 last-account-name: 16bitShark
 lastlocation:
@@ -29,10 +29,10 @@ lastlocation:
   yaw: 91.61856079101562
   pitch: 17.850000381469727
 logoutlocation:
-  world: a065395a-ef7a-46ac-b2ab-4e31494811eb
-  world-name: world_creative
-  x: 90.32858170889776
-  y: 11.0
-  z: 64.971581089274
-  yaw: -117.164794921875
-  pitch: 4.949420928955078
+  world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
+  world-name: world
+  x: -315.58925453251004
+  y: 71.0
+  z: 253.9738342145899
+  yaw: -178.08697509765625
+  pitch: -2.5650229454040527
