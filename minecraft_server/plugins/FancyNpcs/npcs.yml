@@ -16,17 +16,46 @@ npcs:
     collidable: true
     glowing: false
     glowingColor: white
-    turnToPlayer: false
+    turnToPlayer: true
     messages: []
     playerCommands:
     - heal
     serverCommands: []
     sendMessagesRandomly: false
     interactionCooldown: 0.0
-    scale: 1.1
+    scale: 0.99
     mirrorSkin: false
     skin:
       identifier: e6b5c088-0680-44df-9e1b-9bf11792291b
       value: ewogICJ0aW1lc3RhbXAiIDogMTcyMTI3NjY1MTYwMSwKICAicHJvZmlsZUlkIiA6ICJlNmI1YzA4ODA2ODA0NGRmOWUxYjliZjExNzkyMjkxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcnVtbSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMTEyOTM3NjhkNDE4YzA5NmU4MzAxYzBlNmJiMGUxZDEwMTMyYzFjOTA4Y2Q3YmU2NzNlYmM5MGY3MTIxODM2IgogICAgfQogIH0KfQ==
       signature: xOEESzbh3PNHmrGZ+jdou5WczB0uiENM1KE+U+dDMwXD75LRcvwKxdU7yXRcm3h3UeLMYhqtjJlftFqM2ZG99j0jm4tQAjGDltl25WcG/xtvn9glgf5mQQUeRU67806u84z0SW5rmW2p8ecNWuzH8CyK4Nz7MRyWQTlGc6b9Z8GLAgn1DqYQcKnVlLcVlHSfTlZvMrmUl7nGfdVE5EB5tTvhpBW8lPkh6s1KlEyU7wdY9+Gw4k0xx+MbZ8uDw6//5BMB0zduwoKoqvgDUvVgKXY9fj/NoKXUwRtJATHt2/Fc1hvP+sCPU4HcgksdPRv5BeUzU8VW4E9vvf+eTXb1Z5E4Vk0geyETOndS4MTbUQ7XFieOoAplC6cJLnJaip6LZ+x5f8h+sM8LX4M4pYm5h0zykaoZLLxFWv4+2EqdscImH2KzmIXIqONfXQ6pJVnzTq2HkgD8+W9EYHXnduwaACaPGdX8t1r2qaZYombDFjYV5pDUnrUFvJ8nFH8wOxxDNSqezoskNBh3BZbChQz6qDaLdbUfB0r+10+S8ZYI6dzk/2UsVFjNCwFuGFPuHFCYYe9S2BU6fchaWWXaegm0KTTmADYX49VBe7+GLABTFWcVexlqXWvQ8tFqQjvdgoQ19y0nMHCMWboKBZd1/q3FxQ8B9jNd4zQeuhyxIJpy0q0=
+  3cc1370e-86e6-4cb7-9e67-a6ba12ee25ba:
+    name: librarian
+    creator: 13691901-21b3-350a-9ed5-31465b825e6b
+    displayName: librarian
+    type: PLAYER
+    location:
+      world: world
+      x: -289.5
+      y: 71.0
+      z: 204.5
+      yaw: -7.753422
+      pitch: 3.433309
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    messages: []
+    playerCommands: []
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: 23cfa870-a3bd-4f41-93fb-4035fcbb47f5
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcyOTM4OTM1NjY2MywKICAicHJvZmlsZUlkIiA6ICIyM2NmYTg3MGEzYmQ0ZjQxOTNmYjQwMzVmY2JiNDdmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWxsYWdlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5ZDAzZGEwMWFmNDRiMTNhMjYxMDVkMzFlNjA1OWI0NzQ1NjVkOTk5YWY5OTk3OTRjNWJlNmVkYjJmNDQwMzUiCiAgICB9CiAgfQp9
+      signature: uyLVuDVSRXStL2pYCNhOsbJeP0Y6WzFKy7OAvG2lBJd0us5DZM4NA1zMmVHBUUfuWf4rtEOe0FTnWoKRIzLjwf7ORwNa4Of9t03PXjGNkmdlmi00Ux7rUkdOuR/kutIHHNwnoW+ZKtT2p2xWi2gSuzv28gqDWWdDljNkhj6UmUH+/bWwwA3ivXHiZNd/D1yUpv0ayz8dO9bqzQsvYwDNI4kEYLlWw42dHuJyZa5SjclwJoWYLBf31Zi6pl7yMPgiqUxI+KNNmDx21WQXm8dPdGbEkgeXTwJSEmzoZZ45VkxDGSf48qY4eTfXCvYi0ZvnAwQu6izQLsb5z+31vcoB0IHecVyvWDUHWGwOkRO62VV0y+u1jg8EDsi2bwDVEIhvR2tkkTh3EnueO9Kk5R9/sqJ6Ky5p3DxdSsue3f7fd11BXfkRRHcByF+h1kwjO0MiOxhbVK4dqKroG1NHsTm3Igf9PevLNOkDr2tDlMe4HJtRNc34MsdYOp8wUWHFKbytoAbHTocQf8j32yWLzS23sN1YvWhfzZ2cQzi4xqC5Ope768ye043+eD2OUagSxEkuwyQ/nJzjle2aGIbctiiictqTYZK5IINNeBXh3yY2LajQD75Rf+gUWPsPgoThuJazuTpfqu6NywmK76ROgZHCOFjxPJ1mFnjFVKcahExWmKQ=
 
