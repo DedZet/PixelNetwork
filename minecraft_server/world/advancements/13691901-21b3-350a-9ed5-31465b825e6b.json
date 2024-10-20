@@ -4277,5 +4277,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2024-10-19 12:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-10-19 13:08:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
