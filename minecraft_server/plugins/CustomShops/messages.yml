@@ -1,0 +1,8 @@
+insufficient-money: '&cYou don''t have enough money to buy &4{itemname}'
+bought-successfull: §aYou bought §2{itemname}§a for §e${price}
+sold-successfull: §aYou sold §2{itemname}§a for §e${price}
+item-not-found: '&cItem not found'
+left-click-buy: '&aLeft click to buy'
+right-click-sell: '&cRight click to sell'
+left-click-buy-price: '&eBuy for &a{price}$'
+right-click-sell-price: '&eSell for &c{price}$'
