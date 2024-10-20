@@ -83,3 +83,5 @@ plugins:
   - Example
   CustomShops:
   - Example
+  Vault:
+  - Example

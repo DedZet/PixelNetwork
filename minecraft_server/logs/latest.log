@@ -1,71 +1,72 @@
-[02:54:42] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/CustomShops-beta1.0.2.jar'...
-[02:54:43] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CustomShops-beta1.0.2.jar' in 212ms.
-[02:54:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:54:50] [ServerMain/INFO]: Loaded 1341 recipes
-[02:54:50] [ServerMain/INFO]: Loaded 1399 advancements
-[02:54:50] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: thepa:tnt
-[02:54:50] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:54:50] [Server thread/INFO]: Loading properties
-[02:54:50] [Server thread/INFO]: This server is running Paper version 1.21-89-master@44c3dd0 (2024-07-17T19:55:30Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:54:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:54:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:54:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:54:51] [Server thread/INFO]: Default game type: SURVIVAL
-[02:54:51] [Server thread/INFO]: Generating keypair
-[02:54:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:54:51] [Server thread/INFO]: Using epoll channel type
-[02:54:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:54:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loading 3 libraries... please wait
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
-[02:54:52] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/commons-io/commons-io/2.10.0/commons-io-2.10.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loading 10 libraries... please wait
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.20/kotlin-stdlib-common-1.8.20.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.7.0-Beta/kotlinx-coroutines-core-1.7.0-Beta.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.0-Beta/kotlinx-coroutines-core-jvm-1.7.0-Beta.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.0-Beta/kotlinx-coroutines-jdk8-1.7.0-Beta.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.10/kotlin-stdlib-jdk8-1.8.10.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.5.0/kotlinx-serialization-json-1.5.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.5.0/kotlinx-serialization-json-jvm-1.5.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.5.0/kotlinx-serialization-core-jvm-1.5.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/axay/kspigot/1.20.1/kspigot-1.20.1.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-core-jvm/2.3.0/ktor-server-core-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.10/kotlin-stdlib-jdk7-1.8.10.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/com/typesafe/config/1.4.2/config-1.4.2.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-utils-jvm/2.3.0/ktor-utils-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-io-jvm/2.3.0/ktor-io-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-http-jvm/2.3.0/ktor-http-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-jvm/2.3.0/ktor-serialization-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-events-jvm/2.3.0/ktor-events-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-reflect/1.8.10/kotlin-reflect-1.8.10.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-content-negotiation-jvm/2.3.0/ktor-server-content-negotiation-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-kotlinx-json-jvm/2.3.0/ktor-serialization-kotlinx-json-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-kotlinx-jvm/2.3.0/ktor-serialization-kotlinx-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-cio-jvm/2.3.0/ktor-server-cio-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-host-common-jvm/2.3.0/ktor-server-host-common-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-http-cio-jvm/2.3.0/ktor-http-cio-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-websockets-jvm/2.3.0/ktor-websockets-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-network-jvm/2.3.0/ktor-network-jvm-2.3.0.jar
-[02:54:53] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
-[02:54:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.4-SNAPSHOT
-[02:54:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.4-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[02:54:54] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:54:55] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:54:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[02:54:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[02:54:56] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
-[02:54:56] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.0) has not yet been tested! Proceed with caution.
-[02:54:58] [Server thread/ERROR]: [ProtocolLib] Assuming package version: v1_21_R1
-[02:54:58] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
+[02:58:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[02:58:35] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 380ms.
+[02:58:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:58:43] [ServerMain/INFO]: Loaded 1341 recipes
+[02:58:43] [ServerMain/INFO]: Loaded 1399 advancements
+[02:58:43] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: thepa:tnt
+[02:58:43] [Server thread/INFO]: Starting minecraft server version 1.21
+[02:58:43] [Server thread/INFO]: Loading properties
+[02:58:43] [Server thread/INFO]: This server is running Paper version 1.21-89-master@44c3dd0 (2024-07-17T19:55:30Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[02:58:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:58:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:58:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[02:58:44] [Server thread/INFO]: Default game type: SURVIVAL
+[02:58:44] [Server thread/INFO]: Generating keypair
+[02:58:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:58:44] [Server thread/INFO]: Using epoll channel type
+[02:58:44] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:58:44] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loading 3 libraries... please wait
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[02:58:45] [Server thread/INFO]: [SpigotLibraryLoader] [FacilisCommon] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/commons-io/commons-io/2.10.0/commons-io-2.10.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loading 10 libraries... please wait
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib/1.8.20/kotlin-stdlib-1.8.20.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.20/kotlin-stdlib-common-1.8.20.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.7.0-Beta/kotlinx-coroutines-core-1.7.0-Beta.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.7.0-Beta/kotlinx-coroutines-core-jvm-1.7.0-Beta.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-coroutines-jdk8/1.7.0-Beta/kotlinx-coroutines-jdk8-1.7.0-Beta.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.10/kotlin-stdlib-jdk8-1.8.10.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json/1.5.0/kotlinx-serialization-json-1.5.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.5.0/kotlinx-serialization-json-jvm-1.5.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.5.0/kotlinx-serialization-core-jvm-1.5.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/net/axay/kspigot/1.20.1/kspigot-1.20.1.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-core-jvm/2.3.0/ktor-server-core-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.10/kotlin-stdlib-jdk7-1.8.10.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/com/typesafe/config/1.4.2/config-1.4.2.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-utils-jvm/2.3.0/ktor-utils-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-io-jvm/2.3.0/ktor-io-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-http-jvm/2.3.0/ktor-http-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-jvm/2.3.0/ktor-serialization-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-events-jvm/2.3.0/ktor-events-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/jetbrains/kotlin/kotlin-reflect/1.8.10/kotlin-reflect-1.8.10.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/org/fusesource/jansi/jansi/2.4.0/jansi-2.4.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-content-negotiation-jvm/2.3.0/ktor-server-content-negotiation-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-kotlinx-json-jvm/2.3.0/ktor-serialization-kotlinx-json-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-serialization-kotlinx-jvm/2.3.0/ktor-serialization-kotlinx-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-cio-jvm/2.3.0/ktor-server-cio-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-server-host-common-jvm/2.3.0/ktor-server-host-common-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-http-cio-jvm/2.3.0/ktor-http-cio-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-websockets-jvm/2.3.0/ktor-websockets-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/io/ktor/ktor-network-jvm/2.3.0/ktor-network-jvm-2.3.0.jar
+[02:58:46] [Server thread/INFO]: [SpigotLibraryLoader] [MUtils-Web] Loaded library /workspaces/HimozaWorld/minecraft_server/libraries/commons-codec/commons-codec/1.15/commons-codec-1.15.jar
+[02:58:46] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.4-SNAPSHOT
+[02:58:46] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.4-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[02:58:47] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:58:48] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:58:48] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:58:48] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:58:49] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
+[02:58:49] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[02:58:49] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.0) has not yet been tested! Proceed with caution.
+[02:58:51] [Server thread/ERROR]: [ProtocolLib] Assuming package version: v1_21_R1
+[02:58:51] [Server thread/ERROR]:   [ProtocolLib] INTERNAL ERROR: Cannot load ProtocolLib.
   If this problem hasn't already been reported, please open a ticket
   at https://github.com/dmulloy2/ProtocolLib/issues with the following data:
   Stack Trace:
@@ -90,32 +91,32 @@
   Parameters: 
     [NULL]
   Sender:
-    com.comphenix.protocol.ProtocolLib@4512dd0d[
+    com.comphenix.protocol.ProtocolLib@5b3fad7a[
       statistics=<null>
       packetTask=<null>
       tickCounter=0
       configExpectedMod=-1
-      updater=com.comphenix.protocol.updater.SpigotUpdater@2827f928
+      updater=com.comphenix.protocol.updater.SpigotUpdater@6aec8d33
       redirectHandler=<null>
-      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@7b8eb394
+      scheduler=com.comphenix.protocol.scheduler.DefaultScheduler@4c1eb969
       commandProtocol=<null>
       commandPacket=<null>
       commandFilter=<null>
       packetLogging=<null>
       skipDisable=false
       isEnabled=false
-      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@69c00ee1
+      loader=io.papermc.paper.plugin.manager.DummyBukkitPluginLoader@4a8630a2
       server=CraftServer{serverName=Paper,serverVersion=1.21-89-44c3dd0,minecraftVersion=1.21}
       file=plugins/.paper-remapped/ProtocolLib.jar
-      description=org.bukkit.plugin.PluginDescriptionFile@34a54ba3
-      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@34a54ba3
+      description=org.bukkit.plugin.PluginDescriptionFile@180d8e25
+      pluginMeta=org.bukkit.plugin.PluginDescriptionFile@180d8e25
       dataFolder=plugins/ProtocolLib
       classLoader=PluginClassLoader{plugin=ProtocolLib v5.2.0-SNAPSHOT-679, pluginEnabled=false, url=plugins/.paper-remapped/ProtocolLib.jar}
       naggable=true
       newConfig=YamlConfiguration[path='', root='YamlConfiguration']
       configFile=plugins/ProtocolLib/config.yml
-      logger=com.destroystokyo.paper.utils.PaperPluginLogger@426fd00f
-      lifecycleEventManager=io.papermc.paper.plugin.lifecycle.event.PaperLifecycleEventManager@2c00959b
+      logger=com.destroystokyo.paper.utils.PaperPluginLogger@ab7f8d
+      lifecycleEventManager=io.papermc.paper.plugin.lifecycle.event.PaperLifecycleEventManager@54d5bbf7
       allowsLifecycleRegistration=true
     ]
   Version:
@@ -125,276 +126,494 @@
   Server:
     1.21-89-44c3dd0 (MC: 1.21)
 
-[02:54:58] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
-[02:54:58] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
-[02:54:58] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.137
-[02:54:58] [Server thread/INFO]: [FacilisCommon] Loading server plugin FacilisCommon v1.0.5-SNAPSHOT
-[02:54:58] [Server thread/INFO]: [BetterGUI] Loading server plugin BetterGUI v10.0
-[02:54:58] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.11.0
-[02:55:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@55a1c55a]
-[02:55:00] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
-[02:55:00] [Server thread/INFO]: [CustomShops] Loading server plugin CustomShops v1.0.2beta
-[02:55:00] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.2.0
-[02:55:00] [Server thread/INFO]: [RadioactiveBomj] Loading server plugin RadioactiveBomj v1.0-SNAPSHOT
-[02:55:00] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.9.5
-[02:55:00] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
-[02:55:00] [Server thread/INFO]: [UltimateShop] Loading server plugin UltimateShop v2.3.7
-[02:55:00] [Server thread/INFO]: [MUtils-Web] Loading server plugin MUtils-Web v142
-[02:55:00] [Server thread/INFO]: MWeb >> Changed language to en_US
-[02:55:01] [Server thread/INFO]: MWeb >> You are running a beta version. Bugs may appear!
-[02:55:02] [Server thread/INFO]: [AxiomPaper] Loading server plugin AxiomPaper v1.5.12
-[02:55:02] [Server thread/INFO]: [MultiWorld] Loading server plugin MultiWorld v1.6.0-SNAPSHOT
-[02:55:02] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.14.1
-[02:55:02] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.13.1
-[02:55:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[02:55:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[02:55:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
-[02:55:02] [Server thread/INFO]: [MobBanners] Loading server plugin MobBanners v1.0.2
-[02:55:02] [Server thread/INFO]: [PerWorldPlugins] Loading server plugin PerWorldPlugins v1.5.4
-[02:55:02] [Server thread/INFO]: [PerWorldPlugins] Enabling PerWorldPlugins v1.5.4
-[02:55:02] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API in 'NBTAPI' seems to be outdated!
-[02:55:02] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.13.1' Newest Version: 2.13.2'
-[02:55:02] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
-[02:55:02] [Server thread/INFO]: PerWorldPlugins There is a new version available. (1.5.9)
-[02:55:02] [Server thread/INFO]: PerWorldPlugins You can download it at: https://www.spigotmc.org/resources/perworldplugins.96161/
-[02:55:02] [Server thread/INFO]: <---------------------------------------->
-[02:55:02] [Server thread/INFO]: PerWorldPlugins 1.5.4 has been enabled.
-[02:55:02] [Server thread/INFO]: <---------------------------------------->
-[02:55:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
-[02:55:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:55:02] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
-[02:55:02] [Server thread/ERROR]: ******************************************************
-[02:55:02] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
-[02:55:02] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
-[02:55:02] [Server thread/ERROR]: ******************************************************
-[02:55:02] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
-[02:55:02] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
-[02:55:02] [Server thread/INFO]:         __    
-[02:55:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
-[02:55:02] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[02:55:02] [Server thread/INFO]: 
-[02:55:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[02:55:03] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[02:55:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[02:55:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[02:55:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1238ms)
-[02:55:03] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.11.0
-[02:55:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[02:55:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[02:55:04] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[02:55:04] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[02:55:04] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
-[02:55:05] [Server thread/INFO]: [MUtils-Web] Enabling MUtils-Web v142
-[02:55:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
-[02:55:06] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:55:06] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[02:55:07] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:55:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.3]
-[02:55:07] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
-[02:55:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:55:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:55:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:55:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:55:07] [Server thread/INFO]: Preparing level "world"
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:55:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:55:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:55:08] [Server thread/INFO]: Time elapsed: 2 ms
-[02:55:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:55:08] [Server thread/INFO]: Time elapsed: 614 ms
-[02:55:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:55:09] [Server thread/INFO]: Time elapsed: 209 ms
-[02:55:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.4-SNAPSHOT
-[02:55:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:55:09] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[02:55:09] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[02:55:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
-[02:55:09] [Server thread/INFO]: [FacilisCommon] Enabling FacilisCommon v1.0.5-SNAPSHOT
-[02:55:09] [Server thread/INFO]: [FacilisCommon] Server Version: x.x
-[02:55:09] [Server thread/INFO]: [BetterGUI] Enabling BetterGUI v10.0
-[02:55:09] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bettergui [10.0]
-[02:55:09] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
-[02:55:10] [Thread-13/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
-[02:55:10] [Thread-13/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
-[02:55:10] [Server thread/INFO]: [CustomShops] Enabling CustomShops v1.0.2beta
-[02:55:10] [Server thread/ERROR]: [CustomShops] [CustomShops] - Disabled due to no Vault dependency found!
-[02:55:10] [Server thread/INFO]: [CustomShops] Disabling CustomShops v1.0.2beta
-[02:55:10] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.2.0
-[02:55:11] [Server thread/INFO]: [RadioactiveBomj] Enabling RadioactiveBomj v1.0-SNAPSHOT
-[02:55:11] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:55:11] [Server thread/INFO]: RadioactiveBomj Enabled
-[02:55:11] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
-[02:55:11] [Thread-14/WARN]: [FancyNpcs] -------------------------------------------------------
-[02:55:11] [Thread-14/WARN]: [FancyNpcs] You are not using the latest version the FancyNpcs plugin.
-[02:55:11] [Thread-14/WARN]: [FancyNpcs] Please update to the newest version (2.3.0).
-[02:55:11] [Thread-14/WARN]: [FancyNpcs] https://modrinth.com/plugin/FancyNpcs
-[02:55:11] [Thread-14/WARN]: [FancyNpcs] -------------------------------------------------------
-[02:55:11] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[02:55:11] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
-[02:55:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.9.5]
-[02:55:11] [Server thread/INFO]: [GSit] Link with ViaVersion successful!
-[02:55:11] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
-[02:55:12] [Thread-13/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: courses-opposed.joinmc.link
-[02:55:12] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
-[02:55:12] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[02:55:12] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[02:55:13] [Thread-13/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:848:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
-[02:55:13] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[02:55:13] [Server thread/INFO]: [Essentials] Using locale en
-[02:55:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[02:55:13] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[02:55:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[02:55:14] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[02:55:14] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[02:55:14] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[02:55:14] [Server thread/INFO]: [UltimateShop] Enabling UltimateShop v2.3.7
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: blocks.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: special.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: redstone.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: example.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: transport.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: drops.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: flowers.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: minerals.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: terracottas.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: blocks2.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: farming.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: logs.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: glass.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: wools.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded shop: concretes.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Loaded menu: main.yml!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Paper is found, enabled Paper only feature!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Hooking into PlaceholderAPI...
-[02:55:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ultimateshop [1.1.0]
-[02:55:14] [Server thread/INFO]: [UltimateShop] Finished hook!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Your Minecraft version is: 1.21.0!
-[02:55:14] [Server thread/INFO]: [UltimateShop] Plugin is loaded. Author: PQguanfang.
-[02:55:14] [Server thread/INFO]: [AxiomPaper] Enabling AxiomPaper v1.5.12
-[02:55:14] [Thread-13/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[02:55:15] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v1.6.0-SNAPSHOT
-[02:55:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiworld [1.0.0]
-[02:55:15] [Server thread/INFO]: [MultiWorld] Found: [5] Worlds
-[02:55:15] [Server thread/INFO]: [MultiWorld] Found: [0] World Generator
-[02:55:15] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.14.1
-[02:55:15] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qualityarmory [2.0.14.1]
-[02:55:15] [Server thread/INFO]: [QualityArmory] Found PlaceholderAPI. Loaded support
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
-[02:55:15] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
-[02:55:16] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.13.1
-[02:55:16] [Server thread/INFO]: [NBTAPI] Checking bindings...
-[02:55:16] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
-[02:55:16] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
-[02:55:16] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
-[02:55:17] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
-[02:55:17] [Server thread/INFO]: [MobBanners] Enabling MobBanners v1.0.2
-[02:55:17] [Server thread/INFO]: [MobBanners] Loaded 57 banners.
-[02:55:17] [Server thread/INFO]: [MobBanners] Enabled MobBanners.
-[02:55:17] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[02:55:17] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[02:55:17] [Server thread/INFO]: Running delayed init tasks
-[02:55:17] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[02:55:17] [Server thread/INFO]: [PerWorldPlugins] Converted all Listeners correctly.
-[02:55:18] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
-[02:55:18] [ForkJoinPool.commonPool-worker-2/WARN]: [BetterGUI] There is an available update
-[02:55:18] [ForkJoinPool.commonPool-worker-2/WARN]: [BetterGUI] New Version: 10.2
-[02:55:18] [Server thread/INFO]: [FacilisCommon] There is a new update available.
-[02:55:18] [Server thread/INFO]: [FacilisCommon] Current Version: 1.0.5-SNAPSHOT
-[02:55:18] [Server thread/INFO]: [FacilisCommon] New Version: 1.0.6-SNAPSHOT
-[02:55:18] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.5, you're on: 5.0.4-SNAPSHOT
-[02:55:18] [Server thread/INFO]: Done (27.971s)! For help, type "help"
-[02:55:18] [Server thread/INFO]: Timings Reset
-[02:55:18] [Server thread/INFO]: [MultiWorld] There is a new update available.
-[02:55:18] [Server thread/INFO]: [MultiWorld] Current Version: 1.6.0-SNAPSHOT
-[02:55:18] [Server thread/INFO]: [MultiWorld] New Version: 1.6.8-SNAPSHOT
-[02:55:18] [DefaultDispatcher-worker-1/INFO]: MWeb >> Creating web server via 23.97.62.115:25560...
-[02:55:18] [DefaultDispatcher-worker-2/INFO]: [ktor.application] Autoreload is disabled because the development mode is off.
-[02:55:18] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] You're 10 EssentialsX dev build(s) out of date!
-[02:55:18] [Craft Scheduler Thread - 0 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[02:55:19] [DefaultDispatcher-worker-2/INFO]: [ktor.application] Application started in 0.475 seconds.
-[02:55:19] [DefaultDispatcher-worker-4/INFO]: [ktor.application] Responding at http://0.0.0.0:25560
-[02:55:23] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9557, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 85, 13, -73, 95, -29, -85, 8, 103, 20, 113, 27, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -40, -29, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 95, -102, 17, -83, 72, 86, -54, 17, 111, 44, 40, -75, -5, -54, 8, -5], tunnelServerId=1, dataCenterId=36}
-[02:55:23] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[02:55:23] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[02:55:23] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[02:55:23] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[02:55:24] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9534, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 62, -105, 56, 2, -44, -85, 8, 103, 20, 113, 28, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -39, -44, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, -68, 75, 66, 44, 53, 47, 110, -111, -109, -12, 123, 82, 68, 94, -109, 9], tunnelServerId=1, dataCenterId=36}
-[02:55:24] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[02:55:24] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[02:55:24] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[02:55:24] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[02:55:25] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
-[02:55:25] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9596, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 124, -22, -123, 105, 50, -85, 8, 103, 20, 113, 29, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, 103, 50, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 8, 9, -21, -101, 119, -65, 0, 66, 39, -103, 112, -48, -112, 96, 124, 47], tunnelServerId=1, dataCenterId=36}
-[02:55:25] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[02:55:25] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[02:55:25] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[02:55:25] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[02:55:26] [Server thread/INFO]: [UltimateShop] Auto saving data...
-[02:55:26] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
-[02:55:27] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9583, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 111, -71, -110, -60, -107, -85, 8, 103, 20, 113, 31, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -6, -107, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 5, -70, -80, 92, -96, -55, 11, 84, -105, -45, -78, 21, 6, -34, -8, -77], tunnelServerId=1, dataCenterId=36}
-[02:55:27] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[02:55:27] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[02:55:27] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[02:55:27] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[02:55:28] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:13703, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 53, -121, -126, -25, 91, -71, -85, 8, 103, 20, 113, 32, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -92, -71, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 122, -44, -97, 34, -47, -75, -25, 63, 115, 105, 47, -104, 85, -93, 7, 117], tunnelServerId=1, dataCenterId=36}
-[02:55:28] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[02:55:28] [Thread-13/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
-[02:55:28] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[02:55:28] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[02:55:28] [User Authenticator #0/INFO]: UUID of player UberDedZet is 13691901-21b3-350a-9ed5-31465b825e6b
-[02:55:31] [Server thread/INFO]: UberDedZet joined the game
-[02:55:31] [Server thread/INFO]: UberDedZet[/127.0.0.1:37670] logged in with entity id 3 at ([world]-252.5524229190195, 77.0, 189.73921213129992)
-[02:55:36] [Server thread/INFO]: UberDedZet issued server command: /gamemode creative
-[02:55:38] [Server thread/INFO]: UberDedZet issued server command: /gamemode creative
-[02:55:43] [Server thread/INFO]: UberDedZet issued server command: /gm 1
-[02:55:47] [Server thread/INFO]: UberDedZet issued server command: /plugins
-[02:55:58] [Server thread/INFO]: UberDedZet issued server command: /version CustomShops
-[02:56:03] [Server thread/INFO]: UberDedZet issued server command: /customshop
-[02:56:03] [Server thread/ERROR]: Command exception: /customshop
-org.bukkit.command.CommandException: Cannot execute command 'customshop' in plugin CustomShops v1.0.2beta - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+[02:58:51] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[02:58:51] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[02:58:51] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[02:58:51] [Server thread/INFO]: [FacilisCommon] Loading server plugin FacilisCommon v1.0.5-SNAPSHOT
+[02:58:51] [Server thread/INFO]: [BetterGUI] Loading server plugin BetterGUI v10.0
+[02:58:51] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.11.0
+[02:58:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5801ecbc]
+[02:58:53] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[02:58:53] [Server thread/INFO]: [CustomShops] Loading server plugin CustomShops v1.0.2beta
+[02:58:53] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.2.0
+[02:58:53] [Server thread/INFO]: [RadioactiveBomj] Loading server plugin RadioactiveBomj v1.0-SNAPSHOT
+[02:58:53] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.9.5
+[02:58:53] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+107-7b02d22
+[02:58:53] [Server thread/INFO]: [UltimateShop] Loading server plugin UltimateShop v2.3.7
+[02:58:53] [Server thread/INFO]: [MUtils-Web] Loading server plugin MUtils-Web v142
+[02:58:53] [Server thread/INFO]: MWeb >> Changed language to en_US
+[02:58:54] [Server thread/INFO]: MWeb >> You are running a beta version. Bugs may appear!
+[02:58:54] [Server thread/INFO]: [AxiomPaper] Loading server plugin AxiomPaper v1.5.12
+[02:58:54] [Server thread/INFO]: [MultiWorld] Loading server plugin MultiWorld v1.6.0-SNAPSHOT
+[02:58:54] [Server thread/INFO]: [QualityArmory] Loading server plugin QualityArmory v2.0.14.1
+[02:58:54] [Server thread/INFO]: [NBTAPI] Loading server plugin NBTAPI v2.13.1
+[02:58:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[02:58:54] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[02:58:55] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+[02:58:55] [Server thread/INFO]: [MobBanners] Loading server plugin MobBanners v1.0.2
+[02:58:55] [Server thread/INFO]: [PerWorldPlugins] Loading server plugin PerWorldPlugins v1.5.4
+[02:58:55] [Server thread/INFO]: [PerWorldPlugins] Enabling PerWorldPlugins v1.5.4
+[02:58:55] [Server thread/INFO]: PerWorldPlugins There is a new version available. (1.5.9)
+[02:58:55] [Server thread/INFO]: PerWorldPlugins You can download it at: https://www.spigotmc.org/resources/perworldplugins.96161/
+[02:58:55] [Server thread/INFO]: <---------------------------------------->
+[02:58:55] [Server thread/INFO]: PerWorldPlugins 1.5.4 has been enabled.
+[02:58:55] [Server thread/INFO]: <---------------------------------------->
+[02:58:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.3
+[02:58:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:58:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.137
+[02:58:55] [Thread-7/WARN]: [NBTAPI] [NBTAPI] The NBT-API in 'NBTAPI' seems to be outdated!
+[02:58:55] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Current Version: '2.13.1' Newest Version: 2.13.2'
+[02:58:55] [Thread-7/WARN]: [NBTAPI] [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[02:58:55] [Server thread/INFO]:         __    
+[02:58:55] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.137
+[02:58:55] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[02:58:55] [Server thread/INFO]: 
+[02:58:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[02:58:55] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[02:58:56] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[02:58:56] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[02:58:56] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1258ms)
+[02:58:56] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[02:58:56] [Server thread/ERROR]: ******************************************************
+[02:58:56] [Server thread/ERROR]: *** ProtocolLib does not support plugin reloaders! ***
+[02:58:56] [Server thread/ERROR]: *** Please use the built-in reload command!        ***
+[02:58:56] [Server thread/ERROR]: ******************************************************
+[02:58:56] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[02:58:56] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[02:58:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[02:58:56] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[02:58:56] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[02:58:56] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[02:58:56] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.11.0
+[02:58:56] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[02:58:56] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[02:58:56] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:58:57] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[02:58:57] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
+[02:58:58] [Server thread/INFO]: [MUtils-Web] Enabling MUtils-Web v142
+[02:58:58] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.3
+[02:58:59] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:58:59] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[02:59:00] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:59:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.3]
+[02:59:00] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[02:59:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:59:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:59:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:59:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:59:00] [Server thread/INFO]: Preparing level "world"
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.3
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 4aa9140
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:59:00] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:59:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:59:00] [Server thread/INFO]: Time elapsed: 1 ms
+[02:59:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:59:01] [Server thread/INFO]: Time elapsed: 432 ms
+[02:59:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:59:01] [Server thread/INFO]: Time elapsed: 157 ms
+[02:59:01] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.4-SNAPSHOT
+[02:59:01] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[02:59:01] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[02:59:01] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[02:59:01] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[02:59:01] [Server thread/INFO]: [FacilisCommon] Enabling FacilisCommon v1.0.5-SNAPSHOT
+[02:59:01] [Server thread/INFO]: [FacilisCommon] Server Version: x.x
+[02:59:01] [Server thread/INFO]: [BetterGUI] Enabling BetterGUI v10.0
+[02:59:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: bettergui [10.0]
+[02:59:01] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[02:59:02] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[02:59:02] [Server thread/INFO]: [CustomShops] Enabling CustomShops v1.0.2beta
+[02:59:02] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[02:59:02] [Server thread/INFO]: [CustomShops] Enabling with Vault Economy system
+[02:59:02] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.2.0
+[02:59:03] [Server thread/INFO]: [RadioactiveBomj] Enabling RadioactiveBomj v1.0-SNAPSHOT
+[02:59:03] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:59:03] [Server thread/INFO]: RadioactiveBomj Enabled
+[02:59:03] [Server thread/INFO]: [GSit] Enabling GSit v1.9.5
+[02:59:03] [Thread-15/WARN]: [FancyNpcs] -------------------------------------------------------
+[02:59:03] [Thread-15/WARN]: [FancyNpcs] You are not using the latest version the FancyNpcs plugin.
+[02:59:03] [Thread-15/WARN]: [FancyNpcs] Please update to the newest version (2.3.0).
+[02:59:03] [Thread-15/WARN]: [FancyNpcs] https://modrinth.com/plugin/FancyNpcs
+[02:59:03] [Thread-15/WARN]: [FancyNpcs] -------------------------------------------------------
+[02:59:03] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[02:59:03] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[02:59:03] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.9.5]
+[02:59:03] [Server thread/INFO]: [GSit] Link with ViaVersion successful!
+[02:59:03] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+107-7b02d22
+[02:59:04] [Thread-14/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: courses-opposed.joinmc.link
+[02:59:04] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[02:59:04] [Thread-14/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:848:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[02:59:04] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[02:59:05] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[02:59:05] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[02:59:05] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[02:59:05] [Server thread/INFO]: [Essentials] Using locale en
+[02:59:05] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[02:59:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[02:59:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[02:59:06] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[02:59:06] [Server thread/INFO]: [UltimateShop] Enabling UltimateShop v2.3.7
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: blocks.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: special.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: redstone.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: example.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: transport.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: drops.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: flowers.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: minerals.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: terracottas.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: blocks2.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: farming.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: logs.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: glass.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: wools.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded shop: concretes.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Loaded menu: main.yml!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Paper is found, enabled Paper only feature!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Hooking into PlaceholderAPI...
+[02:59:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ultimateshop [1.1.0]
+[02:59:06] [Server thread/INFO]: [UltimateShop] Finished hook!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Your Minecraft version is: 1.21.0!
+[02:59:06] [Server thread/INFO]: [UltimateShop] Plugin is loaded. Author: PQguanfang.
+[02:59:06] [Server thread/INFO]: [AxiomPaper] Enabling AxiomPaper v1.5.12
+[02:59:07] [Server thread/INFO]: [MultiWorld] Enabling MultiWorld v1.6.0-SNAPSHOT
+[02:59:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiworld [1.0.0]
+[02:59:07] [Server thread/INFO]: [MultiWorld] Found: [5] Worlds
+[02:59:07] [Server thread/INFO]: [MultiWorld] Found: [0] World Generator
+[02:59:07] [Server thread/INFO]: [QualityArmory] Enabling QualityArmory v2.0.14.1
+[02:59:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qualityarmory [2.0.14.1]
+[02:59:07] [Server thread/INFO]: [QualityArmory] Found PlaceholderAPI. Loaded support
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loaded 11 Ammo types.
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loaded 16 Misc.
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loaded 70 Gun types.
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loading Attachment: uzicorn
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loading Attachment: awpasiimov
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loading Attachment: p30silenced
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loaded 3 Attachment types.
+[02:59:07] [Server thread/INFO]: [QualityArmory] -Loaded 4 Armor types.
+[02:59:08] [Server thread/INFO]: [NBTAPI] Enabling NBTAPI v2.13.1
+[02:59:08] [Server thread/INFO]: [NBTAPI] Checking bindings...
+[02:59:08] [Server thread/INFO]: [NBTAPI] All Classes were able to link!
+[02:59:08] [Server thread/INFO]: [NBTAPI] All Methods were able to link!
+[02:59:08] [Server thread/INFO]: [NBTAPI] Running NBT reflection test...
+[02:59:09] [Server thread/INFO]: [NBTAPI] Success! This version of NBT-API is compatible with your server.
+[02:59:09] [Server thread/INFO]: [MobBanners] Enabling MobBanners v1.0.2
+[02:59:09] [Server thread/INFO]: [MobBanners] Loaded 57 banners.
+[02:59:09] [Server thread/INFO]: [MobBanners] Enabled MobBanners.
+[02:59:09] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[02:59:09] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[02:59:09] [Server thread/INFO]: Running delayed init tasks
+[02:59:09] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[02:59:09] [Server thread/INFO]: [PerWorldPlugins] Converted all Listeners correctly.
+[02:59:09] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[02:59:10] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[02:59:10] [ForkJoinPool.commonPool-worker-2/WARN]: [BetterGUI] There is an available update
+[02:59:10] [ForkJoinPool.commonPool-worker-2/WARN]: [BetterGUI] New Version: 10.2
+[02:59:10] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.5, you're on: 5.0.4-SNAPSHOT
+[02:59:10] [Server thread/INFO]: Done (26.839s)! For help, type "help"
+[02:59:10] [Server thread/INFO]: Timings Reset
+[02:59:10] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] Checking for Updates ... 
+[02:59:10] [Craft Scheduler Thread - 3 - Vault/INFO]: [Vault] No new version available
+[02:59:10] [Server thread/INFO]: [MultiWorld] There is a new update available.
+[02:59:10] [Server thread/INFO]: [MultiWorld] Current Version: 1.6.0-SNAPSHOT
+[02:59:10] [Server thread/INFO]: [MultiWorld] New Version: 1.6.8-SNAPSHOT
+[02:59:10] [DefaultDispatcher-worker-1/INFO]: MWeb >> Creating web server via 23.97.62.115:25560...
+[02:59:10] [Server thread/INFO]: [FacilisCommon] There is a new update available.
+[02:59:10] [Server thread/INFO]: [FacilisCommon] Current Version: 1.0.5-SNAPSHOT
+[02:59:10] [Server thread/INFO]: [FacilisCommon] New Version: 1.0.6-SNAPSHOT
+[02:59:10] [DefaultDispatcher-worker-2/INFO]: [ktor.application] Autoreload is disabled because the development mode is off.
+[02:59:10] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] You're 10 EssentialsX dev build(s) out of date!
+[02:59:10] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[02:59:11] [DefaultDispatcher-worker-2/INFO]: [ktor.application] Application started in 0.543 seconds.
+[02:59:11] [DefaultDispatcher-worker-3/INFO]: [ktor.application] Responding at http://0.0.0.0:25560
+[02:59:17] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9516, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 44, 65, 115, 107, 108, -85, 8, 103, 20, 114, 4, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -1, 108, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -121, -19, 102, 38, -95, -126, -113, 95, 43, 45, -55, -8, 37, 96, -118, 20], tunnelServerId=1, dataCenterId=36}
+[02:59:17] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[02:59:17] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[02:59:17] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[02:59:17] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[02:59:17] [User Authenticator #0/INFO]: UUID of player UberDedZet is 13691901-21b3-350a-9ed5-31465b825e6b
+[02:59:18] [Server thread/INFO]: [UltimateShop] Auto saving data...
+[02:59:18] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
+[02:59:19] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[02:59:19] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[02:59:19] [Craft Scheduler Thread - 0 - CustomShops/INFO]: [CustomShops] Checking for a new version...
+[02:59:20] [Server thread/INFO]: UberDedZet lost connection: Disconnected
+[02:59:20] [Server thread/INFO]: UberDedZet left the game
+[02:59:20] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9518, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 46, -33, -78, 121, -80, -85, 8, 103, 20, 114, 8, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -108, -80, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 41, -83, -43, -9, 124, 41, -22, -34, 3, 63, -34, 23, -91, 113, 44, 66], tunnelServerId=1, dataCenterId=36}
+[02:59:20] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[02:59:20] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[02:59:20] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[02:59:20] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[02:59:20] [Craft Scheduler Thread - 0 - CustomShops/INFO]: [CustomShops] Your version of CustomShops is currently up to date
+[02:59:22] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9502, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 30, 59, 80, -101, -92, -85, 8, 103, 20, 114, 10, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -117, -92, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, -14, 55, -34, 51, 75, 90, -42, -98, 127, 99, -128, -107, -105, 30, 72, 23], tunnelServerId=1, dataCenterId=36}
+[02:59:22] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[02:59:22] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[02:59:22] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[02:59:22] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[02:59:22] [User Authenticator #0/INFO]: UUID of player UberDedZet is 13691901-21b3-350a-9ed5-31465b825e6b
+[02:59:24] [Server thread/INFO]: UberDedZet joined the game
+[02:59:24] [Server thread/INFO]: UberDedZet[/127.0.0.1:33110] logged in with entity id 20 at ([world]-210.50862585392684, 71.0, 207.70578921036446)
+[02:59:24] [Craft Scheduler Thread - 4 - CustomShops/INFO]: [CustomShops] Checking for a new version...
+[02:59:24] [Craft Scheduler Thread - 4 - CustomShops/INFO]: [CustomShops] Your version of CustomShops is currently up to date
+[02:59:27] [Server thread/INFO]: UberDedZet issued server command: /gamemode creative
+[02:59:35] [Server thread/INFO]: UberDedZet issued server command: /plugins
+[02:59:40] [Server thread/INFO]: UberDedZet issued server command: /customshop
+[02:59:42] [Server thread/INFO]: UberDedZet issued server command: /vault
+[02:59:45] [Server thread/INFO]: UberDedZet issued server command: /vault-info
+[02:59:49] [Async Chat Thread - #0/INFO]: [Not Secure] <UberDedZet> tt
+[02:59:53] [Server thread/INFO]: UberDedZet issued server command: /customshop
+[03:00:05] [Server thread/INFO]: UberDedZet issued server command: /customshop create Library
+[03:00:09] [Server thread/INFO]: UberDedZet issued server command: /customshop create Library 5
+[03:00:15] [Server thread/INFO]: UberDedZet issued server command: /customshop create Library 5 Библиотека
+[03:00:17] [Craft Scheduler Thread - 4 - FancyNpcs/INFO]: [ChatColorHandler] Found MiniMessage in Server. MiniMessage support enabled.
+[03:00:17] [Craft Scheduler Thread - 4 - FancyNpcs/INFO]: [ChatColorHandler] Found plugin "PlaceholderAPI". PlaceholderAPI support enabled.
+[03:00:24] [Server thread/INFO]: UberDedZet issued server command: /library
+[03:00:34] [Server thread/INFO]: UberDedZet issued server command: /cs open library
+[03:00:45] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:00:48] [Server thread/INFO]: UberDedZet issued server command: /customshop open Library
+[03:00:58] [Server thread/INFO]: UberDedZet issued server command: /customshop delete Library
+[03:01:05] [Server thread/INFO]: UberDedZet issued server command: /customshop create library 5 Библиотека
+[03:01:14] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:01:18] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:01:19] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1462) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1469) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1314) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:20] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1462) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1469) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1314) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:24] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:01:27] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:01:29] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1624) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:31] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1624) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:32] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:114) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1624) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:34] [Server thread/ERROR]: Could not pass event InventoryClickEvent to CustomShops v1.0.2beta
+java.lang.NullPointerException: Cannot invoke "java.lang.Integer.intValue()" because the return value of "org.bukkit.inventory.meta.tags.CustomItemTagContainer.getCustomTag(org.bukkit.NamespacedKey, org.bukkit.inventory.meta.tags.ItemTagType)" is null
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onInventoryClick(CustomShops.java:377) ~[CustomShops-beta1.0.2.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor46.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:77) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at PerWorldPlugins-1.5.4.jar/dev.tonimatas.perworldplugins.api.PerWorldRegisteredListener.callEvent(PerWorldRegisteredListener.java:29) ~[PerWorldPlugins-1.5.4.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleContainerClick(ServerGamePacketListenerImpl.java:3122) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:69) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.game.ServerboundContainerClickPacket.handle(ServerboundContainerClickPacket.java:33) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1462) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1469) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1314) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:01:40] [Server thread/INFO]: UberDedZet issued server command: /customshop open library
+[03:02:36] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library
+[03:02:46] [Server thread/INFO]: UberDedZet issued server command: /warp dev
+[03:02:47] [Server thread/ERROR]: Error loading saved data: map_1375
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.base/java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:266) ~[?:?]
+	at java.base/java.util.zip.InflaterInputStream.read(InflaterInputStream.java:175) ~[?:?]
+	at java.base/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:128) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.fill(FastBufferedInputStream.java:94) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:25) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.io.DataInputStream.readUnsignedByte(DataInputStream.java:295) ~[?:?]
+	at java.base/java.io.DataInputStream.readByte(DataInputStream.java:275) ~[?:?]
+	at net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:398) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.nbt.NbtIo.read(NbtIo.java:334) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:87) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.world.level.storage.DimensionDataStorage.readTagFromDisk(DimensionDataStorage.java:96) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.world.level.storage.DimensionDataStorage.readSavedData(DimensionDataStorage.java:72) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.world.level.storage.DimensionDataStorage.get(DimensionDataStorage.java:60) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ServerLevel.getMapData(ServerLevel.java:2015) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.world.item.MapItem.getSavedData(MapItem.java:55) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ServerEntity.sendChanges(ServerEntity.java:133) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ChunkMap.newTrackerTick(ChunkMap.java:932) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ChunkMap.tick(ChunkMap.java:953) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:409) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:732) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1800) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:471) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1593) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1300) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:03:07] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[03:04:18] [Server thread/INFO]: [UltimateShop] Auto saving data...
+[03:04:18] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
+[03:05:33] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library Книга
+[03:07:07] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[03:07:47] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library Книга 500
+[03:07:54] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library Книга 500 500 1
+[03:07:54] [Server thread/ERROR]: Command exception: /customshop setitem library Книга 500 500 1
+org.bukkit.command.CommandException: Unhandled exception executing command 'customshop' in plugin CustomShops v1.0.2beta
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
 	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-89-44c3dd0]
 	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
 	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-89-44c3dd0]
@@ -422,61 +641,74 @@ org.bukkit.command.CommandException: Cannot execute command 'customshop' in plug
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1314) ~[paper-1.21.jar:1.21-89-44c3dd0]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:57:41] [Server thread/INFO]: UberDedZet issued server command: /stop
-[02:57:41] [Server thread/INFO]: Stopping server
-[02:57:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
-[02:57:41] [Server thread/INFO]: [PerWorldPlugins] Disabling PerWorldPlugins v1.5.4
-[02:57:41] [Server thread/INFO]: [MobBanners] Disabling MobBanners v1.0.2
-[02:57:41] [Server thread/INFO]: [MobBanners] Disabled MobBanners.
-[02:57:41] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.13.1
-[02:57:41] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.14.1
-[02:57:41] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v1.6.0-SNAPSHOT
-[02:57:41] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion multiworld
-[02:57:41] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin MultiWorld was disabled.
-[02:57:41] [Server thread/INFO]: [AxiomPaper] Disabling AxiomPaper v1.5.12
-[02:57:41] [Server thread/INFO]: [MUtils-Web] Disabling MUtils-Web v142
-[02:57:41] [Server thread/INFO]: MWeb >> Web Server stopped
-[02:57:41] [Server thread/INFO]: [UltimateShop] Disabling UltimateShop v2.3.7
-[02:57:41] [Server thread/INFO]: [UltimateShop] Plugin is disabled. Author: PQguanfang.
-[02:57:41] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+107-7b02d22
-[02:57:41] [Server thread/INFO]: [GSit] Disabling GSit v1.9.5
-[02:57:41] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[02:57:41] [Server thread/INFO]: [RadioactiveBomj] Disabling RadioactiveBomj v1.0-SNAPSHOT
-[02:57:41] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.2.0
-[02:57:41] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
-[02:57:41] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.11.0
-[02:57:41] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[02:57:41] [Server thread/INFO]: [BetterGUI] Disabling BetterGUI v10.0
-[02:57:41] [Server thread/INFO]: [FacilisCommon] Disabling FacilisCommon v1.0.5-SNAPSHOT
-[02:57:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.137
-[02:57:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[02:57:41] [Server thread/INFO]: [LuckPerms] Closing storage...
-[02:57:41] [Server thread/INFO]: [LuckPerms] Goodbye!
-[02:57:41] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
-[02:57:41] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[02:57:41] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.4-SNAPSHOT
-[02:57:41] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:57:41] [Server thread/INFO]: Saving players
-[02:57:41] [Server thread/INFO]: UberDedZet lost connection: Server closed
-[02:57:41] [Server thread/INFO]: UberDedZet left the game
-[02:57:41] [Server thread/INFO]: Saving worlds
-[02:57:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:57:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:57:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:57:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Saved 725 block chunks, 725 entity chunks, 0 poi chunks in world 'world' in 1.39s
-[02:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:57:43] [Thread-13/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
-[02:57:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:57:43] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
-[02:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:57:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+Caused by: java.lang.NumberFormatException: For input string: "Книга"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?]
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?]
+	at java.base/java.lang.Double.parseDouble(Double.java:792) ~[?:?]
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onCommand(CustomShops.java:269) ~[CustomShops-beta1.0.2.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:08:06] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library Book 500 500 1
+[03:08:06] [Server thread/ERROR]: Command exception: /customshop setitem library Book 500 500 1
+org.bukkit.command.CommandException: Unhandled exception executing command 'customshop' in plugin CustomShops v1.0.2beta
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:91) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.2.9.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:443) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:350) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:332) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2147) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2121) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1533) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1510) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1503) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1462) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1469) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1314) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-89-44c3dd0]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NumberFormatException: For input string: "Book"
+	at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:2054) ~[?:?]
+	at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110) ~[?:?]
+	at java.base/java.lang.Double.parseDouble(Double.java:792) ~[?:?]
+	at CustomShops-beta1.0.2.jar/mc.alessandroch.customshops.CustomShops.onCommand(CustomShops.java:269) ~[CustomShops-beta1.0.2.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[03:08:57] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 500 500 500 1
+[03:09:07] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 5 500 500 1
+[03:09:14] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 5 1 1 1
+[03:09:18] [Server thread/INFO]: [UltimateShop] Auto saving data...
+[03:09:18] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
+[03:09:18] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 1 1 1 1
+[03:09:21] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 1 1 1 1
+[03:09:28] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 1 1 1 1
+[03:09:42] [Server thread/INFO]: UberDedZet issued server command: /customshop setitem library 1 1 1 1
+[03:09:47] [Server thread/INFO]: UberDedZet issued server command: /blob
+[03:10:35] [Server thread/INFO]: UberDedZet issued server command: /warp rinok
+[03:11:08] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[03:14:02] [Server thread/INFO]: UberDedZet issued server command: /jumpto
+[03:14:05] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[03:14:05] [Server thread/INFO]: UberDedZet lost connection: Disconnected
+[03:14:05] [Server thread/INFO]: UberDedZet left the game
+[03:14:06] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:9488, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 37, 16, -113, -13, 88, 94, -85, 8, 103, 20, 117, 125, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, 48, 94, -85, 8, 0, 0, 0, 0, 36, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 116, 19, -28, 116, 70, -52, -60, -128, 64, -51, 52, 33, -117, 90, -63, -77], tunnelServerId=1, dataCenterId=36}
+[03:14:06] [Thread-14/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[03:14:06] [Thread-14/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[03:14:06] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
