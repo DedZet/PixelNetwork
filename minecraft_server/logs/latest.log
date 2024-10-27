@@ -336,3 +336,62 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [08:41:28] [Server thread/INFO]: [UltimateShop] Auto saving data...
 [08:41:28] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
 [08:44:16] [Thread-15/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[08:45:24] [Thread-15/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:23057, peerAddr=109.126.5.161:6443, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 90, 17, 109, 126, 5, -95, 25, 43, 77, 112, 32, -59, -85, 8, 103, 29, -3, -92, 0, 0, 0, 0, 0, 12, 90, -61, 0, 0, 0, 0, 0, 56, 15, 24, -28, -59, -85, 8, 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 113, -8, 89, 16, 9, 98, -71, -64, 29, -113, -7, -29, -105, -83, 26, 25], tunnelServerId=1, dataCenterId=38}
+[08:45:24] [Thread-15/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[08:45:24] [Thread-15/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[08:45:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[08:45:24] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[08:45:27] [Server thread/INFO]: Stopping the server
+[08:45:27] [Server thread/INFO]: Stopping server
+[08:45:27] [Server thread/INFO]: [RadioactiveBomj] Disabling RadioactiveBomj v1.0-SNAPSHOT
+[08:45:27] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.13.1
+[08:45:27] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v1.6.0-SNAPSHOT
+[08:45:27] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion multiworld
+[08:45:27] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin MultiWorld was disabled.
+[08:45:27] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.11.0
+[08:45:27] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:45:27] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.2.0
+[08:45:27] [Server thread/INFO]: [UltimateShop] Disabling UltimateShop v2.3.7
+[08:45:27] [Server thread/INFO]: [UltimateShop] Plugin is disabled. Author: PQguanfang.
+[08:45:27] [Server thread/INFO]: [BetterGUI] Disabling BetterGUI v10.0
+[08:45:27] [Server thread/INFO]: [QualityArmory] Disabling QualityArmory v2.0.14.1
+[08:45:27] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.3
+[08:45:27] [Server thread/INFO]: [GSit] Disabling GSit v1.9.5
+[08:45:27] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[08:45:27] [Server thread/INFO]: [PerWorldPlugins] Disabling PerWorldPlugins v1.5.4
+[08:45:27] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[08:45:27] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+107-7b02d22
+[08:45:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:45:27] [Server thread/INFO]: [CustomShops] Disabling CustomShops v1.0.2beta
+[08:45:27] [Server thread/INFO]: [AxiomPaper] Disabling AxiomPaper v1.5.12
+[08:45:27] [Server thread/INFO]: [FacilisCommon] Disabling FacilisCommon v1.0.5-SNAPSHOT
+[08:45:27] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[08:45:27] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[08:45:27] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:45:27] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.137
+[08:45:27] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:45:27] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:45:27] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:45:27] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.4-SNAPSHOT
+[08:45:27] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[08:45:27] [Server thread/INFO]: Saving players
+[08:45:27] [Server thread/INFO]: Saving worlds
+[08:45:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[08:45:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[08:45:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:45:28] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[08:45:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:45:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:45:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:45:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
