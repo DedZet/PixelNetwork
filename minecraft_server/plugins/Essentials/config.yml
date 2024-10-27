@@ -24,14 +24,14 @@
 
 # A color code between 0-9 or a-f. Set to 'none' to disable.
 # In 1.16+ you can use hex color codes here as well. (For example, #613e1d is brown).
-ops-name-color: '4'
+ops-name-color: 'a'
 
 # The character(s) to prefix all nicknames, so that you know they are not true usernames.
 # Users with essentials.nick.hideprefix will not be prefixed with the character(s)
 nickname-prefix: '~'
 
 # The maximum length allowed in nicknames. The nickname prefix is not included in this.
-max-nick-length: 15
+max-nick-length: 24
 
 # A list of phrases that cannot be used in nicknames. You can include regular expressions here.
 # Users with essentials.nick.blacklist.bypass will be able to bypass this filter.
@@ -364,14 +364,14 @@ use-nbt-serialization-in-createkit: false
 
 enabledSigns:
   #- color
-  #- balance
+  - balance
   #- buy
   #- sell
   #- trade
   #- free
-  #- warp
+  - warp
   #- kit
-  #- mail
+  - mail
   #- enchant
   #- gamemode
   #- heal
@@ -391,7 +391,7 @@ enabledSigns:
 # How many times per second can Essentials signs be interacted with per player.
 # Values should be between 1-20, 20 being virtually no lag protection.
 # Lower numbers will reduce the possibility of lag, but may annoy players.
-sign-use-per-second: 4
+sign-use-per-second: 5
 
 # Allow item IDs on pre-existing signs on 1.13 and above.
 # You cannot use item IDs on new signs, but this will allow players to interact with signs that
@@ -556,8 +556,8 @@ allow-silent-join-quit: false
 # {ONLINE} - The number of players online.
 # {UNIQUE} - The number of unique players to join the server.
 # {UPTIME} - The amount of time the server has been online.
-custom-join-message: "none"
-custom-quit-message: "none"
+custom-join-message: "{PLAYER} &aОнлайн"
+custom-quit-message: "{PLAYER} &cОффлайн"
 
 # You can set a custom join message for users who join with a new username here.
 # This message will only be used if a user has joined before and have since changed their username.
@@ -827,7 +827,7 @@ command-costs:
 # Set this to a currency symbol you want to use.
 # Remember, if you want to use special characters in this document, 
 # such as accented letters, you MUST save the file as UTF-8, not ANSI.
-currency-symbol: '�'
+currency-symbol: ' '
 
 # Enable this to make the currency symbol appear at the end of the amount rather than at the start.
 # For example, the euro symbol typically appears after the current amount.
@@ -849,7 +849,7 @@ economy-log-enabled: false
 economy-log-update-enabled: false
 
 # Minimum acceptable amount to be used in /pay.
-minimum-pay-amount: 0.001
+minimum-pay-amount: 10
 
 # Enable this to block users who try to /pay another user which ignore them.
 pay-excludes-ignore-list: false
@@ -925,7 +925,7 @@ chat:
   # {TEAMPREFIX} - The sender's scoreboard team prefix.
   # {TEAMSUFFIX} - The sender's scoreboard team suffix.
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
+  format: '{DISPLAYNAME}:&b {MESSAGE}'
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
@@ -1162,11 +1162,11 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&dWelcome {DISPLAYNAME}&d to the server!'
+  announce-format: ''
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
-  spawnpoint: newbies
+  spawnpoint: "none"
 
   # Do we want to give users anything on first join? Set to '' to disable
   # This kit will be given regardless of cost and permissions, and will not trigger the kit delay.

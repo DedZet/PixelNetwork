@@ -1,8 +1,0 @@
-#---------> Animation Generator by Miraculixx <---------#
-#                  Powered by MapTools                  #
-#              https://mutils.net/maptools              #
-#-------------------------------------------------------#
-
-# Settings Input
-# - Control Points: <points>
-# - Target: <target>

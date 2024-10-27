@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1729391271059
+  lastteleport: 1730017147253
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1729393061547
-  login: 1729392931606
+  logout: 1730017309121
+  login: 1730017093218
 money: '0'
 logoutlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
-  x: -210.50862585392684
+  x: -219.0255565847891
   y: 71.0
-  z: 207.70578921036446
-  yaw: 134.9697265625
-  pitch: 14.798125267028809
+  z: 224.6297560946453
+  yaw: 46.83905029296875
+  pitch: 8.032320976257324
 last-account-name: UberDedZet
 lastlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
-  x: -1412.6306494852745
-  y: 94.32580025388225
-  z: 91.55331917843253
-  yaw: -102.86988067626953
-  pitch: 13.576071739196777
+  x: -1361.0865435837463
+  y: 91.0
+  z: 75.67878965358878
+  yaw: -132.4569091796875
+  pitch: 19.166461944580078
