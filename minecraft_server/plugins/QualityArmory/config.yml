@@ -1,5 +1,5 @@
 ENABLE-DEBUG: false
-language: en
+language: ru
 FriendlyFireEnabled: false
 KickPlayerIfDeniedResourcepack: false
 useDefaultResourcepack: true
@@ -64,7 +64,7 @@ unknownTranslationKeyFixer: false
 Enable_Creation_Of_Default_Files: true
 EnableGlowEffects: false
 Break-Block-Texture-If-Shot: true
-enableRecoil: true
+enableRecoil: false
 experimental:
   BulletWounds:
     InitialBloodLevel: 1500.0
