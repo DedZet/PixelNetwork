@@ -1,5 +1,5 @@
 #See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
-#Sun Oct 20 02:08:22 UTC 2024
+#Sun Oct 27 05:20:40 UTC 2024
 breadcrumb.divider=§e > §r
 breadcrumb.name_color=§9
 menu.activation_mode.edit=§eEnter the redstone activation mode of that command block (ACTIVATED/DEACTIVATED/BOTH)\:

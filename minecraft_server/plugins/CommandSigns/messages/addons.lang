@@ -1,5 +1,5 @@
 #See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
-#Sun Oct 20 02:08:22 UTC 2024
+#Sun Oct 27 05:20:40 UTC 2024
 error.command.index_too_large=§4The index you entered is too large.
 error.command.require_args=§4This command requires more args.
 error.command.require_number=§4This command requires a number.

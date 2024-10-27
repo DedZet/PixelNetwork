@@ -1,5 +1,5 @@
 #See https://github.com/Nokorbis/ar-command-signs/wiki/Custom-messages for more information about this file
-#Sun Oct 20 02:08:33 UTC 2024
+#Sun Oct 27 05:20:51 UTC 2024
 commands.near.format=§6{NAME}§7[§5{ID}§7] at {BLOCK_TYPE} \#{X}\:{Z}({Y})
 error.command.help.invalid=§4There is no command with this name.
 error.command.more_args=§4This command requires more arguments.
