@@ -712,3 +712,6 @@ Caused by: java.lang.NumberFormatException: For input string: "Book"
 [03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
 [03:14:06] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
 [03:14:06] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[03:14:18] [Server thread/INFO]: [UltimateShop] Auto saving data...
+[03:14:18] [Server thread/INFO]: [UltimateShop] If this lead to server TPS drop, you should consider disable auto save feature at config.yml!
+[03:15:09] [Thread-14/INFO]: [gg.playit.control.ChannelSetup] send keep alive
