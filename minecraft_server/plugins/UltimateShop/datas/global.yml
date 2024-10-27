@@ -1,4 +1,5 @@
 useTimes:
+<<<<<<< HEAD
   farming:
     D: {}
     P: {}
@@ -154,4 +155,66 @@ useTimes:
     A: {}
     O: {}
     E: {}
+=======
+  logs:
+    B: {}
+    H: {}
+    A: {}
+    L: {}
+    K: {}
+    D: {}
+    C: {}
+    O: {}
+    M: {}
+    J: {}
+    E: {}
+    I: {}
+    N: {}
+    G: {}
+    F: {}
+  minerals:
+    C: {}
+    E: {}
+    F: {}
+    I: {}
+    A: {}
+    H: {}
+    B: {}
+    J: {}
+    G: {}
+    D: {}
+  wools:
+    K: {}
+    A: {}
+    F: {}
+    J: {}
+    P: {}
+    C: {}
+    G: {}
+    D: {}
+    I: {}
+    E: {}
+    B: {}
+    O: {}
+    N: {}
+    M: {}
+    H: {}
+    L: {}
+  drops:
+    K: {}
+    O: {}
+    I: {}
+    B: {}
+    M: {}
+    J: {}
+    F: {}
+    C: {}
+    E: {}
+    H: {}
+    N: {}
+    A: {}
+    L: {}
+    D: {}
+    G: {}
+>>>>>>> refs/remotes/origin/main
 randomPlaceholder: {}

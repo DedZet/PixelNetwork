@@ -3,9 +3,18 @@ name: UberDedZet
 last-login: 1721349309970
 last-location:
   ==: BukkitWorldLocation
+<<<<<<< HEAD
   x: -273.9963544011222
   y: 74.0
   z: 223.65497719995275
   pitch: 74.60475158691406
   world-name: world
   yaw: -119.94807434082031
+=======
+  x: 11.37291287329581
+  y: 63.0
+  z: 131.86471023785091
+  pitch: -0.7491769194602966
+  world-name: world
+  yaw: 43.52215576171875
+>>>>>>> refs/remotes/origin/main

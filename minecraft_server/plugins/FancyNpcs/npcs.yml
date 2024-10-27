@@ -58,6 +58,7 @@ npcs:
       identifier: b7ba441b-11ff-4639-b715-a90a96342de9
       value: ewogICJ0aW1lc3RhbXAiIDogMTcyOTM5MTI5NDY4NCwKICAicHJvZmlsZUlkIiA6ICJiN2JhNDQxYjExZmY0NjM5YjcxNWE5MGE5NjM0MmRlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2a3N4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NmRjNWU2OTU2OTIzZmFlMWI3NTc0NTM1ZDY2MWIwOTc4YjQyNzdjZmQ4NWJkZjRkYjVmZjRiZTk0ODQwNjEiCiAgICB9CiAgfQp9
       signature: MiXYJZLL1mrL5c34ZNCI/aeUH4hEf2YdTybahq1Sp620ZHo2rdM4QVzsGvofasOCkWQw4aCcZXLnZHizLPjq5mCQWplar6JzUHpZ7Lr3bcg+xpxhzptO1vMO/Y6B44IAjM54PJtfKblTafqCE4Se8j+YVt5W97r+vm6DAEvi7gnlwQWYdgLBlW3RUDzmR9s90nREIrS/ZDmUo2tsJxkdvzCOX1IWCitO7GwEpMJmVOpHRkHFVf6n14kFblYqwEiZp49fw/uDB9xn/vvMgdgpX+POWg6Vy95f9jdFPcxF2uFO/RO5fP5NgJsQqsKxw/1pQ9XV7coLbSjFKGBtnsZ6LeDkpKbsj3NjvU9xobQZrMsAP8GpNmQizdBSrVgGhc6Vaw9Bt5hyYcp5V2Yuhq/qSQDlCGd+7rqSUv8lqp+OiYvRhGAdnALuYzQ0N4fllbsE6vuNB3MDImQqV2J8D+zEM+noQUP19S0ia7bZj6gzvCH6RLSTT1QK5gIc6rrMOT1enwmGq61Sdj/+eGcgcWBU7eZRuY67MA0UVwzOwV8Tq66JqIaDBWxW+5oPENoNx4LwRuiLJRyYSlk4YZk+sMepTqcGF7SXERdUeuCwr/iRWl/1/2lTlrCfPoxicHWTh7zVLtvSj/ClQy8KqmSu3cA+nCX2F0FMjUFaN+pUbg/zArE=
+<<<<<<< HEAD
   5ae4527c-3d61-47f7-a667-b636b156c274:
     name: bankir2
     creator: 13691901-21b3-350a-9ed5-31465b825e6b
@@ -84,23 +85,38 @@ npcs:
     scale: 1.0
     mirrorSkin: false
   79b3ff7e-c43b-4e88-a4eb-9352cde06353:
+=======
+  bf617435-370e-4ee8-92ff-7e7debb73e80:
+>>>>>>> refs/remotes/origin/main
     name: bankir
     creator: 13691901-21b3-350a-9ed5-31465b825e6b
     displayName: bankir
     type: PLAYER
     location:
       world: world
+<<<<<<< HEAD
       x: -278.5
       y: 74.0
       z: 223.5
       yaw: -175.72433
       pitch: 7.723786
+=======
+      x: -273.5
+      y: 74.0
+      z: 223.5
+      yaw: -177.85164
+      pitch: 75.74047
+>>>>>>> refs/remotes/origin/main
     showInTab: false
     spawnEntity: true
     collidable: true
     glowing: false
     glowingColor: white
+<<<<<<< HEAD
     turnToPlayer: false
+=======
+    turnToPlayer: true
+>>>>>>> refs/remotes/origin/main
     messages: []
     playerCommands: []
     serverCommands: []
@@ -108,4 +124,40 @@ npcs:
     interactionCooldown: 0.0
     scale: 1.0
     mirrorSkin: false
+<<<<<<< HEAD
+=======
+    skin:
+      identifier: 1e808e10-9eef-4e7c-b491-a5fdb04be431
+      value: ewogICJ0aW1lc3RhbXAiIDogMTczMDAwNzE1MTgwNiwKICAicHJvZmlsZUlkIiA6ICIxZTgwOGUxMDllZWY0ZTdjYjQ5MWE1ZmRiMDRiZTQzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYW5rMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ODFlZDBlNjU1MjBiYmJhODE0ZWMxOWU1Yjk3NWM4YTc4NTVlOWE2OGMzZWRlNGYzMDgwYjQzNjM4MWVlYTQ4IgogICAgfQogIH0KfQ==
+      signature: aXmKHhKe9Y2G5KGXYTFRAJikbKYEqEq09bhSJAsOSEkge+MOdghJ2ceSySTZDI1hKuT67U/mr6AyckKQP82wBRgGDasKwGHrBF6Fsia7JEIfwMNpm52vrGf/aJtWGK6QxL6Z50V9tZGCi6CMbaPc3mzxuE3wHR4gumfaPdu3Oc8jNRJynE52tneNxChKibo/G8ssq+GioCzwb65/8WHC1OI/XrZLdRzye+DjI8hTmTosH6OKiyEovvRMR9cIdno3BLEAi0fZbmobXfDyOHxhMRVFGifKgcCqsIc1p5LrezPKoxP1qkq0AZwpmlksFRNQ41AyZFKYYckO1Xx8C2JBRfTBv2vEu0dNlCIoBDYPmHwKRFBvFcu6MhqP8RrK/o6za3NQynljkObEm4ajx77pjqJJMFvpqzDI1IyPy+uRQcbeuJQNrUo3JX01ESMJj77psFCYapf5PtTljOJK7/RDiYtur914dGvDmgwGmzel7ILNwfq6C8NG8VVYi1J4R9uHmFoAfdj+nyUUY0pT3Jlrt0R6jXj5eBy8X/F4sX1sVHTIpRr7FWHnCXphHEYc5MgYM+HgnyqzIIVOgNaN2DhSGMXLPIBvXkzXZ+qCM45sLoDWOwvUeSiJ5MdO9oSViJ9WqTKH3KLwA9yp53puweui0GCZiVUTyIGeFyyeVtEclnI=
+  d1db0a37-f510-48b6-97b3-37e5fc530be2:
+    name: bankir2
+    creator: 13691901-21b3-350a-9ed5-31465b825e6b
+    displayName: bankir2
+    type: PLAYER
+    location:
+      world: world
+      x: -278.53005613425694
+      y: 74.0
+      z: 223.51013498643903
+      yaw: 178.08884
+      pitch: 73.34286
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    messages: []
+    playerCommands: []
+    serverCommands: []
+    sendMessagesRandomly: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    mirrorSkin: false
+    skin:
+      identifier: 69fddb59-aa81-42b0-95f5-98def183918d
+      value: ewogICJ0aW1lc3RhbXAiIDogMTczMDAwNzUyMTExNSwKICAicHJvZmlsZUlkIiA6ICI2OWZkZGI1OWFhODE0MmIwOTVmNTk4ZGVmMTgzOTE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb3NuYXkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE0MDQ2M2ZhMDMwMWFmYTFkYzg4MDAxYzkzNWQ0ODZiMTlmMzcwZmM0MWEwMWFmYzI3YWYzYzVjNTk0ZTU5MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      signature: vDAsng6N0IFM2ByoX0c4D0Dh7Gn/FM2OYDFCly1IErzb3ey31Gm/WdkIjkJWWwVf+NJm9QBUb2MMk8d4gWpbuyWOss3i0dxmxuc7lPq/P0X3vU3XH1DA3p+IBpY9CA15jbjc0FWc0ZyN9jvqLz20AbcLQ2EMwMQRQRpFDUj5lWSRtkWtPJuQ9iNdsPYLlVoGt+luFE2Hoh4ofXLBmQYwcAQcIWGycptthUc95chOrR8LUhWWp4/KwH9TLI++T69UPbeNmpS8S8zM7cRbuImnZ64xVQWQakJewE0GWIJRixP6L5sdutrRQLqPjuyS2GjYUDuhh//hvff5iGw+3bXpKK23Xd6Rmy+7g8m975ZyIxPWfLJUYHWbloWJRl56aNpNKsLbJhFOgy1r1vAjdxqfX0D8bD+d+KWliaumPTX/6MZFRIGv40n9UM1GdscYmjL43sBJqB/HYKjD5Ql08wPDMAqoE9jdN1x/dxuQLZDutuYg5Lk3XVQJnv1cAe660PLLVYKeQVaH+hBt1eQlAyFPIxkmGjXAQsUrD1mBCES1fGpuosL1Nv3r2YwMJ1PpLrBC7Z/+G/6SX54ruAYh/1hu2suN6T9kHjT1LZQTNWTErQ4YHvvdQDg75xYVwz2pWVdqYtuhQzRrQ+el78Ji9MbitjOmQOrX6ANapBwgq2ttp9Q=
+>>>>>>> refs/remotes/origin/main
 
