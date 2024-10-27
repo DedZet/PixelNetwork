@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730018331384
-  login: 1730018191106
+  logout: 1730019576246
+  login: 1730019042797
 money: '0'
 logoutlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
-  x: -214.6939639432095
+  x: -218.5
   y: 71.0
-  z: 216.32299787795912
-  yaw: 164.6689453125
-  pitch: 23.210927963256836
+  z: 204.5
+  yaw: -169.4583740234375
+  pitch: 4.5282135009765625
 last-account-name: UberDedZet
 lastlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
