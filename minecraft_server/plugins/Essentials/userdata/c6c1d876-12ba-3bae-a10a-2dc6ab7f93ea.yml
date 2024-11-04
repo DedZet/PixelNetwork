@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 127.0.0.1
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723716860925
+  lastteleport: 1730710617715
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1727351362941
-  login: 1727350068954
+  logout: 1730710685086
+  login: 1730710489083
 money: '0'
 last-account-name: 16bitShark
 lastlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
-  x: -431.9202583979347
-  y: 127.0
-  z: 569.860443878036
-  yaw: 91.61856079101562
-  pitch: 17.850000381469727
+  x: -94.40341647005951
+  y: 69.87026769274594
+  z: 109.6142509922863
+  yaw: 38.630191802978516
+  pitch: 23.699939727783203
 logoutlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
-  x: -315.58925453251004
-  y: 71.0
-  z: 253.9738342145899
-  yaw: -178.08697509765625
-  pitch: -2.5650229454040527
+  x: -1383.420408713677
+  y: 87.0
+  z: 86.30000001192093
+  yaw: -16.94622802734375
+  pitch: -3.1500155925750732

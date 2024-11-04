@@ -4,6 +4,7 @@ last-login: 1721349309970
 last-location:
   ==: BukkitWorldLocation
 <<<<<<< HEAD
+<<<<<<< HEAD
   x: -273.9963544011222
   y: 74.0
   z: 223.65497719995275
@@ -18,3 +19,11 @@ last-location:
   world-name: world
   yaw: 43.52215576171875
 >>>>>>> refs/remotes/origin/main
+=======
+  x: 16.0
+  y: 71.0
+  z: 0.0
+  pitch: 11.771007537841797
+  world-name: world_survival
+  yaw: 40.052001953125
+>>>>>>> d9de1e4 (Himoza 5.8)

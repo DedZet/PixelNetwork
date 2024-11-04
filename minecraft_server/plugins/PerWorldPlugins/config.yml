@@ -1,7 +1,7 @@
 # PerWorldPlugins Configuration
 
 # Disable or Enable the message of new updates.
-updateChecker: true
+updateChecker: false
 # Disable or Enable the bStats metrics.
 metrics: true
 # Message send when execute blocked plugin command.

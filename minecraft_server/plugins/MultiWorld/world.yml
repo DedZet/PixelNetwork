@@ -93,3 +93,22 @@ world_creative:
   whitelist: []
   whitelist-enabled: false
   load-auto: false
+world_survival:
+  creator-name: UberDedZet
+  creation-timestamp: 1730709334186
+  type: NORMAL
+  game-mode: CREATIVE
+  difficulty: PEACEFUL
+  pvp-enabled: true
+  spawn-animals: true
+  spawn-monsters: true
+  spawn-entities: true
+  end-portal-accessible: true
+  nether-portal-accessible: true
+  end-world: world_the_end
+  nether-world: world_nether
+  normal-world: world
+  receive-achievements: true
+  whitelist: []
+  whitelist-enabled: false
+  load-auto: false

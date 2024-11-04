@@ -4,5 +4,11 @@
     "name": "UberDedZet",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c6c1d876-12ba-3bae-a10a-2dc6ab7f93ea",
+    "name": "16bitShark",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

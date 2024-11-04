@@ -1,1 +1,1 @@
-java -Xmx4096M -Xms4096M -jar paper-1.21-89.jar nogui
+java -Xmx4096M -Xms4096M -jar server.jar nogui

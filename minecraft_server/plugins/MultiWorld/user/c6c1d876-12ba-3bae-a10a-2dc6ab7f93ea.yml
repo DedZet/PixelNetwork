@@ -3,9 +3,9 @@ name: 16bitShark
 last-login: 1723711286105
 last-location:
   ==: BukkitWorldLocation
-  x: 104.61527263343069
-  y: 11.0
-  z: 47.25337772751395
-  pitch: 5.670645236968994
-  world-name: world_creative
-  yaw: 72.2973403930664
+  x: -94.41315526544062
+  y: 69.87026769274594
+  z: 109.62560040507417
+  pitch: 23.699939727783203
+  world-name: world
+  yaw: 38.630191802978516
