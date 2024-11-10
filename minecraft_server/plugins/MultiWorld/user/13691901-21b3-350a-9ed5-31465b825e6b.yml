@@ -5,6 +5,7 @@ last-location:
   ==: BukkitWorldLocation
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   x: -273.9963544011222
   y: 74.0
   z: 223.65497719995275
@@ -27,3 +28,11 @@ last-location:
   world-name: world_survival
   yaw: 40.052001953125
 >>>>>>> d9de1e4 (Himoza 5.8)
+=======
+  x: -1517.1638948595769
+  y: 117.89971793100119
+  z: 112.99141105001793
+  pitch: 41.10001754760742
+  world-name: world
+  yaw: 130.16964721679688
+>>>>>>> ac5409e (Himoza 5.9)

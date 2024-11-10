@@ -13,7 +13,7 @@ world:
   end-world: world_the_end
   nether-world: world_nether
   normal-world: world
-  receive-achievements: true
+  receive-achievements: false
   whitelist: []
   whitelist-enabled: false
   load-auto: false
@@ -32,7 +32,7 @@ world_nether:
   end-world: world_the_end
   nether-world: world_nether
   normal-world: world
-  receive-achievements: true
+  receive-achievements: false
   whitelist: []
   whitelist-enabled: false
   load-auto: false
@@ -51,12 +51,12 @@ world_the_end:
   end-world: world_the_end
   nether-world: world_nether
   normal-world: world
-  receive-achievements: true
+  receive-achievements: false
   whitelist: []
   whitelist-enabled: false
   load-auto: false
 world_space:
-  creator-name: UberDedZet
+  creator-name: CONSOLE
   creation-timestamp: 1721286996888
   type: VOID
   game-mode: SURVIVAL
@@ -70,12 +70,12 @@ world_space:
   end-world: world_the_end
   nether-world: world_nether
   normal-world: world
-  receive-achievements: true
+  receive-achievements: false
   whitelist: []
   whitelist-enabled: false
   load-auto: false
 world_creative:
-  creator-name: UberDedZet
+  creator-name: CONSOLE
   creation-timestamp: 1721287005872
   type: FLAT
   game-mode: SURVIVAL
@@ -89,16 +89,16 @@ world_creative:
   end-world: world_the_end
   nether-world: world_nether
   normal-world: world
-  receive-achievements: true
+  receive-achievements: false
   whitelist: []
   whitelist-enabled: false
   load-auto: false
 world_survival:
-  creator-name: UberDedZet
+  creator-name: CONSOLE
   creation-timestamp: 1730709334186
   type: NORMAL
-  game-mode: CREATIVE
-  difficulty: PEACEFUL
+  game-mode: SURVIVAL
+  difficulty: NORMAL
   pvp-enabled: true
   spawn-animals: true
   spawn-monsters: true
@@ -111,4 +111,4 @@ world_survival:
   receive-achievements: true
   whitelist: []
   whitelist-enabled: false
-  load-auto: false
+  load-auto: true

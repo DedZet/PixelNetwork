@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 127.0.0.1
@@ -13,6 +13,7 @@ baltop-exempt: false
 timestamps:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   lastteleport: 1730017147253
 =======
   lastteleport: 1730007725729
@@ -20,10 +21,14 @@ timestamps:
 =======
   lastteleport: 1730710667209
 >>>>>>> d9de1e4 (Himoza 5.8)
+=======
+  lastteleport: 1731046107193
+>>>>>>> ac5409e (Himoza 5.9)
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   logout: 1730019576246
@@ -36,10 +41,15 @@ timestamps:
   logout: 1730710688261
   login: 1730710167078
 >>>>>>> d9de1e4 (Himoza 5.8)
+=======
+  logout: 1731046211470
+  login: 1731046004105
+>>>>>>> ac5409e (Himoza 5.9)
 money: '0'
 logoutlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   x: -218.5
@@ -61,10 +71,18 @@ logoutlocation:
   yaw: 128.79022216796875
   pitch: 51.863563537597656
 >>>>>>> d9de1e4 (Himoza 5.8)
+=======
+  x: -309.3136322349048
+  y: 79.84240433876101
+  z: 205.87945681224315
+  yaw: 114.8697738647461
+  pitch: 47.54999542236328
+>>>>>>> ac5409e (Himoza 5.9)
 last-account-name: UberDedZet
 lastlocation:
   world: 08d0229e-93b2-461b-99e9-41ee30aff7e3
   world-name: world
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   x: -1361.0865435837463
@@ -86,3 +104,10 @@ lastlocation:
   yaw: -83.48809814453125
   pitch: 5.935872554779053
 >>>>>>> d9de1e4 (Himoza 5.8)
+=======
+  x: -1517.1638948595769
+  y: 117.89971793100119
+  z: 112.99141105001793
+  yaw: 130.16964721679688
+  pitch: 41.10001754760742
+>>>>>>> ac5409e (Himoza 5.9)
