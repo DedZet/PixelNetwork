@@ -1,4 +1,4 @@
-![2021-07-11_18 08 15](https://github.com/user-attachments/assets/a68ad3b0-b5a6-49b3-aeb3-7265f27c88df)# HimozaWorld
+# HimozaWorld
 Лучшая ГТА
 Играй за БОМЖА
 
